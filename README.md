@@ -1,7 +1,4 @@
-# Titulo
-## Autor: Luan Fellipe (allen08)
+# Exercicio 2 - Programação WEB
+## Dupla: Luan Fellipe e Matheus Possidônio
 
 
-### [*] Execução:
-
-![Alt text](Execucao.png "Title")
